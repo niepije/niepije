@@ -1,0 +1,84 @@
+#b2b-container img {
+    max-width: 100%;
+    max-height: 100%;
+}
+#b2b-container
+{
+    max-width: 1320px;
+    margin: 0 auto;
+    text-align: left;
+
+}
+#headerb2b
+{ 
+    width: 100%;
+}
+#kolumny1
+{
+    text-align: left;
+    width:100%;
+    }
+#kolumny1 img
+{
+max-width: 320px;
+    }
+#tekst1
+{
+    text-align: left;
+    }
+.kolumna1
+{ 
+    display: inline-block;
+    text-align:center;
+   
+}
+.kolumna2
+{ 
+    display: inline-block;
+    text-align:center;
+}
+.kolumna3
+{ 
+    display: inline-block;
+    text-align:center;
+}
+.kolumna4
+{ 
+    display: inline-block;
+    text-align:center;
+}
+#b2b-apk
+{
+    text-align: left;
+}
+#b2b-apk-pro
+{
+    width:100%;
+    margin: 30px;
+    background-color: gainsboro;
+    border-radius: 20px;
+    
+}
+#b2b-apk-pro .b2b-apk-p
+{ 
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+    padding: 20px;
+}
+#b2b-apk-pro .b2b-apk-l
+{ 
+    display: inline-block;
+    text-align: center;
+    max-width: 50%;
+    padding: 20px;
+}
+#kolumny2
+{
+    text-align: left;
+    width:100%
+}
+#kolumny2 img
+{
+max-width: 430px;
+    }
